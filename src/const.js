@@ -1,0 +1,9 @@
+export const USUARIO_STORAGE = '5Cr1p7F0rM5'
+// export const URL_API = 'http://186.145.16.130:3000/' // Hayuelos
+// export const URL_API = 'http://181.58.30.251:2000/' // IX Colombia
+// export const URL_API = 'http://192.168.10.212:3000/'
+export const URL_API = 'http://localhost:2000/'
+export const APPNAME = 'ScriptForms'
+export const COMPANYNAME = 'Rendimo$ Ltda'
+export const YEARSCOPYRIGTH = '2018'
+export const APPNAMESMALL = '$+'
